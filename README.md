@@ -1,4 +1,3 @@
-<h1 style = "text align : center "> Hello I am A Programmer From The Ahemadabad </h1>
 
 <!---
 ummar-byte/ummar-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
